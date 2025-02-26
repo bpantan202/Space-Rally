@@ -16,4 +16,4 @@ This game has 10 turns. After the final turn, The winner is the player with the 
 <img width="400" alt="x3" src="https://github.com/user-attachments/assets/3b985cc9-ac2b-4254-889b-f8339f366762" />&nbsp; &nbsp; &nbsp;<img width="400" alt="x4" src="https://github.com/user-attachments/assets/17b741ff-eec9-4914-85ab-1fb2599c588d" />
 
 ### Title screen
-<img width="800" alt="x" src="https://github.com/user-attachments/assets/0f9f98e8-9e29-4946-a7c1-0832582d2d63" />
+<img width="400" alt="x" src="https://github.com/user-attachments/assets/0f9f98e8-9e29-4946-a7c1-0832582d2d63" />
